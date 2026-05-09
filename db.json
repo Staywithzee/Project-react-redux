@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wireless Noise-Cancelling Headphones",
+      "price": 89.99,
+      "category": "Electronics",
+      "description": "Premium over-ear headphones with active noise cancellation, 30-hour battery life, and foldable design. Perfect for travel and work.",
+      "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&q=80",
+      "stock": 42
+    },
+    {
+      "id": "2",
+      "name": "Mechanical Gaming Keyboard",
+      "price": 64.99,
+      "category": "Electronics",
+      "description": "TKL layout mechanical keyboard with Cherry MX Red switches, RGB backlighting, and aluminum top case.",
+      "imageUrl": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&q=80",
+      "stock": 18
+    },
+    {
+      "id": "3",
+      "name": "USB-C 4-Port Hub",
+      "price": 29.99,
+      "category": "Electronics",
+      "description": "Compact USB-C hub with 4K HDMI, 2x USB-A 3.0, USB-C PD 100W pass-through, and SD/microSD card reader.",
+      "imageUrl": "https://images.unsplash.com/photo-1625895197185-efcec01cffe0?w=600&q=80",
+      "stock": 75
+    },
+    {
+      "id": "4",
+      "name": "Running Sneakers – Men's",
+      "price": 74.95,
+      "category": "Footwear",
+      "description": "Lightweight breathable mesh runners with responsive foam midsole. Available in sizes 7–13. Great for road and trail.",
+      "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&q=80",
+      "stock": 33
+    },
+    {
+      "id": "5",
+      "name": "Classic Canvas Sneakers",
+      "price": 44.99,
+      "category": "Footwear",
+      "description": "Timeless low-top canvas sneakers with vulcanized rubber sole. Pairs with anything in your wardrobe.",
+      "imageUrl": "https://images.unsplash.com/photo-1465453869711-7e174808ace9?w=600&q=80",
+      "stock": 60
+    },
+    {
+      "id": "6",
+      "name": "Leather Chelsea Boots",
+      "price": 119.00,
+      "category": "Footwear",
+      "description": "Full-grain leather Chelsea boots with elastic side panels, stacked heel, and rubber lug sole for all-day comfort.",
+      "imageUrl": "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?w=600&q=80",
+      "stock": 12
+    },
+    {
+      "id": "7",
+      "name": "Stainless Steel Water Bottle 1L",
+      "price": 24.99,
+      "category": "Home & Kitchen",
+      "description": "Double-wall vacuum insulated bottle keeps drinks cold 24h / hot 12h. BPA-free, leak-proof lid, fits most cup holders.",
+      "imageUrl": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=600&q=80",
+      "stock": 98
+    },
+    {
+      "id": "8",
+      "name": "Non-Stick Frying Pan 28cm",
+      "price": 39.99,
+      "category": "Home & Kitchen",
+      "description": "Ceramic non-stick coating, stay-cool handle, induction compatible. Dishwasher safe. PFOA-free.",
+      "imageUrl": "https://images.unsplash.com/photo-1585515320310-259814833e62?w=600&q=80",
+      "stock": 27
+    },
+    {
+      "id": "9",
+      "name": "Bamboo Cutting Board Set",
+      "price": 32.50,
+      "category": "Home & Kitchen",
+      "description": "Set of 3 eco-friendly bamboo cutting boards in small, medium, and large. Juice groove, easy-grip handles.",
+      "imageUrl": "https://images.unsplash.com/photo-1611735341450-74d61e660ad2?w=600&q=80",
+      "stock": 0
+    },
+    {
+      "id": "10",
+      "name": "Wireless Charging Pad 15W",
+      "price": 19.99,
+      "category": "Electronics",
+      "description": "Fast wireless charger compatible with Qi devices. LED indicator, anti-slip surface, ultra-thin design.",
+      "imageUrl": "https://images.unsplash.com/photo-1591370874773-6702e8f12fd8?w=600&q=80",
+      "stock": 55
+    },
+    {
+      "id": "11",
+      "name": "Slim Fit Chino Trousers",
+      "price": 49.99,
+      "category": "Clothing",
+      "description": "Stretch cotton-blend slim chinos with 4-way flexibility. Smart-casual look, wrinkle-resistant fabric.",
+      "imageUrl": "https://images.unsplash.com/photo-1594938298603-c8148c4b4f01?w=600&q=80",
+      "stock": 40
+    },
+    {
+      "id": "12",
+      "name": "Oversized Graphic Hoodie",
+      "price": 54.00,
+      "category": "Clothing",
+      "description": "400gsm heavyweight fleece hoodie with a dropped shoulder fit, kangaroo pocket, and ribbed cuffs. Unisex sizing.",
+      "imageUrl": "https://images.unsplash.com/photo-1556821840-3a63f15732ce?w=600&q=80",
+      "stock": 25
+    }
+  ]
+}
