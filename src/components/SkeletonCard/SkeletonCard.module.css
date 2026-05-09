@@ -1,0 +1,52 @@
+@keyframes shimmer {
+  0% { background-position: -400px 0; }
+  100% { background-position: 400px 0; }
+}
+
+.shimmer {
+  background: linear-gradient(90deg, #e8e8e8 25%, #f5f5f5 50%, #e8e8e8 75%);
+  background-size: 800px 100%;
+  animation: shimmer 1.4s infinite linear;
+}
+
+.card {
+  border-radius: 12px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.image {
+  composes: shimmer;
+  height: 200px;
+  width: 100%;
+}
+
+.body {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.title {
+  composes: shimmer;
+  height: 1rem;
+  border-radius: 4px;
+  width: 80%;
+}
+
+.subtitle {
+  composes: shimmer;
+  height: 0.85rem;
+  border-radius: 4px;
+  width: 50%;
+}
+
+.button {
+  composes: shimmer;
+  height: 2.2rem;
+  border-radius: 8px;
+  width: 100%;
+  margin-top: 0.4rem;
+}
